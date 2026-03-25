@@ -32,17 +32,24 @@ This template helps you start new backend projects quickly without repeating boi
 ---
 
 ## 📁 Project Structure
-src/
+
+```
+.
+├── src
+│ ├── controllers
+│ ├── routes
+│ ├── models
+│ ├── middlewares
+│ ├── utils
+│ ├── db
+│ ├── app.js
+│ └── index.js
 │
-├── controllers/
-├── routes/
-├── models/
-├── middlewares/
-├── utils/
-├── db/
-│
-├── app.js
-└── index.js
+├── .env.example
+├── .gitignore
+├── package.json
+└── README.md
+```
 
 
 ---
