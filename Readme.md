@@ -54,5 +54,5 @@ src/
 Using degit (recommended):
 
 ```bash
-npx degit Skrpn7/node-backend-template my-project
+npx degit Skrpn7/node-mongo-template my-project
 cd my-project
